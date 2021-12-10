@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationTails</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Developers">Developers</string>
+    <string name="play">Play</string>
+    <string name="developers">Developers:</string>
+    <string name="cnow_roll">cnow_roll</string>
+    <string name="about_roll">about_roll</string>
+</resources>
